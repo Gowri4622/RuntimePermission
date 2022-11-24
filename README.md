@@ -34,6 +34,10 @@ Developed by        : Gowri M
 Registration Number : 212220230019
 */
 ```
+<br>
+<br>
+<br>
+    
 ### MainActivity.java
 ```
 package com.example.runtimepermission;
@@ -212,8 +216,8 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 ```
-## OUTPUT:
 
+## OUTPUT:
 ![Screenshot_24](https://user-images.githubusercontent.com/75235455/203785843-2e70c904-acd9-4d3e-97fe-44d94dd1b1c5.png)
 ![Screenshot_26](https://user-images.githubusercontent.com/75235455/203785902-49e63972-1cec-4511-bfc4-f300bbbaeadd.png)
 ![Screenshot_27](https://user-images.githubusercontent.com/75235455/203785910-4e527cc8-cd39-4d0d-a723-8ac4cbac92fb.png)
